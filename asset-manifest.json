@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/word-gen/static/css/main.19b06568.chunk.css",
+    "main.js": "/word-gen/static/js/main.00a5802b.chunk.js",
+    "main.js.map": "/word-gen/static/js/main.00a5802b.chunk.js.map",
+    "runtime-main.js": "/word-gen/static/js/runtime-main.4dc1f9c9.js",
+    "runtime-main.js.map": "/word-gen/static/js/runtime-main.4dc1f9c9.js.map",
+    "static/js/2.5e2c3e7e.chunk.js": "/word-gen/static/js/2.5e2c3e7e.chunk.js",
+    "static/js/2.5e2c3e7e.chunk.js.map": "/word-gen/static/js/2.5e2c3e7e.chunk.js.map",
+    "static/js/3.d1972792.chunk.js": "/word-gen/static/js/3.d1972792.chunk.js",
+    "static/js/3.d1972792.chunk.js.map": "/word-gen/static/js/3.d1972792.chunk.js.map",
+    "index.html": "/word-gen/index.html",
+    "static/css/main.19b06568.chunk.css.map": "/word-gen/static/css/main.19b06568.chunk.css.map",
+    "static/js/2.5e2c3e7e.chunk.js.LICENSE.txt": "/word-gen/static/js/2.5e2c3e7e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4dc1f9c9.js",
+    "static/js/2.5e2c3e7e.chunk.js",
+    "static/css/main.19b06568.chunk.css",
+    "static/js/main.00a5802b.chunk.js"
+  ]
+}
